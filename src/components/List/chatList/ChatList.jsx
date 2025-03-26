@@ -16,6 +16,42 @@ const ChatList = () => {
          className='add' alt="" 
          onClick={() => setAddMode((prev)=>!(prev))}/>
         </div>
+        <div className="item">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <span>aashvi</span>
+            <p>i love you</p>
+          </div>
+        </div>
+        <div className="item">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <span>aashvi</span>
+            <p>i love you</p>
+          </div>
+        </div>
+        <div className="item">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <span>aashvi</span>
+            <p>i love you</p>
+          </div>
+        </div>
+        <div className="item">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <span>aashvi</span>
+            <p>i love you</p>
+          </div>
+        </div>
+        <div className="item">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <span>aashvi</span>
+            <p>i love you</p>
+          </div>
+        </div>
+
     </div>
   )
 }
