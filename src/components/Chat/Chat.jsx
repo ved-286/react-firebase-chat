@@ -25,7 +25,7 @@ const Chat = () => {
         <div className="user">
           <img src="./avatar.png" alt="" />
           <div className="texts">
-            <span>Aashvi</span>
+            <span>jon Doe</span>
             <p>Lorem ipsum dolor sit </p>
           </div>
         </div>
@@ -43,8 +43,9 @@ const Chat = () => {
             <span>Just Now</span>
           </div>
         </div>
-        <div className="message own">
+        <div className="message own">ī
           <div className="texts">
+            <img src="https://images.pexels.com/photos/2446760/pexels-photo-2446760.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
             <span>Just Now</span>
           </div>
